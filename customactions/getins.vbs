@@ -1,0 +1,1 @@
+Session.Property("CA_DeleteFolders")=Session.Property("INSTALLDIR")

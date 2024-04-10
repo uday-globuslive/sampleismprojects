@@ -1,0 +1,3 @@
+dpinst64.exe /S /SA /LM /SW
+dpinst64.exe /U VBoxWddm.inf /S
+dpinst64.exe /U VBoxGuest.inf /S
